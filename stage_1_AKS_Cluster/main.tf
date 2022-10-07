@@ -22,7 +22,7 @@ provider "azurerm" {
 
 variable "uniquename"{
   type = string
-  description = "Name for the ResourceGroup and AKS Cluster"
+  description = "josc99_AKS1"
 }
 
 # locals block
